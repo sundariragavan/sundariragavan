@@ -4,7 +4,7 @@
 
 - 🤓 Computer Science Student
 - 🌱 I’m currently learning everything about React Native 
-- 💪🏼 Future Goals: Learn more technologies - Creating a Million Dollar Company
+- 💪🏼 Future Goals: Learn more technologies 
 
 ### Things that I'm currently working on 💻
 - React Native
